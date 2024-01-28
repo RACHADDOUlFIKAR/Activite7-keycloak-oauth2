@@ -3,6 +3,9 @@
 
 # TACHES
 <h2>1. Télécharger Keycloak 23</h2>
+
+![Capture d’écran 2024-01-28 143102](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/61ad0a2d-c6ab-4ab9-b1b9-246143a70a79)
+
 <h2>2. Démarrer Keycloak</h2>
 
 ![Capture d’écran 2024-01-16 225059](https://github.com/RACHADDOUlFIKAR/ACT7_security/assets/97551741/4d601b7c-1a9b-43bd-b8e2-5a35f93da2a7)
@@ -30,3 +33,18 @@
 ![Capture d’écran 2024-01-16 215520](https://github.com/RACHADDOUlFIKAR/ACT7_security/assets/97551741/92021ac6-3bee-434b-9bff-8a9d064e6d68)
 ![Capture d’écran 2024-01-16 224923](https://github.com/RACHADDOUlFIKAR/ACT7_security/assets/97551741/f1fea605-d69d-4b80-b9ce-e315942f0459)
 ![Capture d’écran 2024-01-16 224950](https://github.com/RACHADDOUlFIKAR/ACT7_security/assets/97551741/478a80b6-84dc-4390-80c0-a587ec29681f)
+
+## Partie 2
+
+![Capture d’écran 2024-01-28 135942](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/d3782b69-00e0-456c-806a-512651c85750)
+
+![Capture d’écran 2024-01-28 140636](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/cafc2390-6b46-4f7e-9861-c84bdd51f28f)
+
+![Capture d’écran 2024-01-28 142500](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/1d2c7265-b3f7-4216-b719-41e1b6217bbd)
+
+![Capture d’écran 2024-01-28 142617](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/3860f294-cb81-4e89-8223-08a8c7677a6f)
+
+![Capture d’écran 2024-01-28 142656](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/31c242cf-a283-4d83-bbe5-1bd0cd29829f)
+
+
+
