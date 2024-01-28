@@ -2,7 +2,7 @@ package ma.emsi.customerfrontthymeleafapp.web;
 
 import ma.emsi.customerfrontthymeleafapp.entities.Customer;
 import ma.emsi.customerfrontthymeleafapp.model.Product;
-import ma.enset.customerfrontthymeleafapp.repository.CustomerRepository;
+import ma.emsi.customerfrontthymeleafapp.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpHeaders;
