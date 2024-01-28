@@ -54,5 +54,6 @@
 
 ![Capture d’écran 2024-01-28 142656](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/31c242cf-a283-4d83-bbe5-1bd0cd29829f)
 
+![Capture d’écran 2024-01-28 152600](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/a6db6ba4-4dbb-4121-81ed-6d71206e0361)
 
 
