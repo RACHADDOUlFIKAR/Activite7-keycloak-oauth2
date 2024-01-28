@@ -39,6 +39,9 @@
 <img width="750" alt="300263156-8d6e8a44-8e89-4e6c-937e-01d4566046b2" src="https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/48bd67f5-d101-4253-907e-0b40c49bbd9d">
 <img width="699" alt="300263055-cba17448-699c-40cd-ab19-2c8bf9bce7dc" src="https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/d5c0ace7-f49f-4511-a9a4-01dd4f102f38">
 
+![Capture d’écran 2023-12-05 225508](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/4f6830c6-93f0-4d51-b53d-3348d679156e)
+
+
 <img width="745" alt="300263189-75b62342-89f8-4b1f-9d2d-6cac9fef7ce9" src="https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/637c0548-fee3-413e-967b-137323b8cd8e">
 
 ![Capture d’écran 2024-01-28 135942](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/d3782b69-00e0-456c-806a-512651c85750)
