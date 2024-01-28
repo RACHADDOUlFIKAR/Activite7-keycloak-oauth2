@@ -1,7 +1,7 @@
 # Spring project with angular and thymeleaf activity 7
 ---------------------------------------
 
-# TACHES
+# TACHES:
 <h2>1. Télécharger Keycloak 23</h2>
 
 ![Capture d’écran 2024-01-28 143102](https://github.com/RACHADDOUlFIKAR/Activite7-keycloak-oauth2/assets/97551741/61ad0a2d-c6ab-4ab9-b1b9-246143a70a79)
