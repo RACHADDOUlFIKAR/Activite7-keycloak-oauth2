@@ -1,4 +1,4 @@
-# Spring project with angular and thymeleaf activity 7.
+# Spring project with angular and thymeleaf activity 7
 ---------------------------------------
 
 # TACHES
